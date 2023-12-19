@@ -1,0 +1,72 @@
+{
+  //********** EDITOR SETTINGS ***********//
+
+  "editor.cursorSurroundingLines": 16,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": true,
+  "editor.stablePeek": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.suggestSelection": "first",
+  "editor.wordWrap": "on",
+
+  //********** WORKBENCH SETTINGS ***********//
+
+  "workbench.list.mouseWheelScrollSensitivity": 3,
+
+  //********** TERMINAL SETTINGS ***********//
+
+  "terminal.integrated.smoothScrolling": true,
+
+  //********** GIT SETTINGS ***********//
+
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+
+  //********** PYTHON SETTINGS ***********//
+
+  "python.languageServer": "Pylance",
+
+  //********** TYPESCRIPT SETTINGS ***********//
+
+  "typescript.preferences.preferTypeOnlyAutoImports": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  //********** JAVASCRIPT SETTINGS ***********//
+
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.suggest.classMemberSnippets.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  //********** CSS SETTINGS ***********//
+
+  "css.validate": false,
+
+  //********** EMMET SETTINGS ***********//
+
+  "emmet.showExpandedAbbreviation": "never",
+
+  //********** GITHUBREPOSITORIES SETTINGS ***********//
+
+  "githubRepositories.autoFetch.enabled": false,
+
+  //********** LESS SETTINGS ***********//
+
+  "less.validate": false,
+
+  //********** NPM SETTINGS ***********//
+
+  "npm.packageManager": "yarn",
+
+  //********** PRETTIER SETTINGS ***********//
+
+  "prettier.useEditorConfig": false,
+
+  //********** SCSS SETTINGS ***********//
+
+  "scss.validate": false
+}

@@ -1,0 +1,37 @@
+{
+  "workbench.list.mouseWheelScrollSensitivity": 3,
+
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+
+  "editor.minimap.enabled": true,
+  "editor.wordWrap": "on",
+  "editor.suggestSelection": "first",
+  "editor.linkedEditing": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+
+  "python.languageServer": "Pylance",
+  "editor.stickyScroll.enabled": true,
+  "editor.cursorSurroundingLines": 16,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.stablePeek": true,
+  "editor.formatOnSave": true,
+
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "prettier.useEditorConfig": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "githubRepositories.autoFetch.enabled": false,
+  "npm.packageManager": "yarn",
+  "typescript.preferences.preferTypeOnlyAutoImports": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "emmet.showExpandedAbbreviation": "never",
+  "javascript.suggest.classMemberSnippets.enabled": false
+}
