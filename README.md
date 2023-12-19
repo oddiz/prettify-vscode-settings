@@ -1,4 +1,4 @@
-# VSCode Settings Prettify
+# Prettify VSCode Settings
 
 This script sorts and categorizes settings in a `settings.json` file, which is often used for configuration in applications like Visual Studio Code. The script uses `pyjson5` to handle JSONC (JSON with comments) and supports customization of the output file path.
 
